@@ -1,2 +1,2 @@
 # stats-with-r
-Statistics With R
+My journey as I learn statistics with R
